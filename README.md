@@ -1,4 +1,7 @@
-# Continuous Deployment using AWS Code Pipeline and S3
+# Continuous Deployment using AWS Code Pipeline and S3!
+## Project Architecture
+ ![Pipeline github-s3](https://github.com/Alessiob13/codepipeline-s3-game/assets/43845425/1ef1097d-9df7-4671-8d9a-6ec228bb8513)
+
 
 This repo contains the code files used in this [YouTube video](https://youtu.be/biYVW1TMYAU).
 
